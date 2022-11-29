@@ -20,17 +20,35 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="1d13580b-ff02-4932-916d-743099b51e62" name="Changes" comment="" />
       <created>1669746762682</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669746762682</updated>
+      <workItem from="1669746767522" duration="306000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit teste 1°">
+      <created>1669746979582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669746979582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit teste 1°" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit teste 1°" />
   </component>
 </project>
